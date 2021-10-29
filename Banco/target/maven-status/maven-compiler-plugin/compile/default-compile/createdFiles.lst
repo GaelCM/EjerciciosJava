@@ -1,0 +1,4 @@
+banco\BancoPrincipal.class
+banco\Clientes.class
+banco\Movimientos.class
+banco\Cuenta.class
